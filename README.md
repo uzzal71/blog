@@ -2,7 +2,7 @@
 development django, postgresql blog website.posted personal and created account user posted own blog post 
 
 # Setting project
-git clone
+git clone https://github.com/uzzal71/blog.git
 
 # Database setup
 create postgresql database "blog"
